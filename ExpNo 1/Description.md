@@ -54,15 +54,19 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 </ol></B>
 
 <hr>
+```
 <h3>Name: Rakshitha Devi J</h3>
 <h3>Register Number:212221230082</h3>
+```
 <hr>
+
 
 
 
 <hr>
 <h3>code</h3>
 <hr>
+```
 from collections import defaultdict
 def dfs(graph,start,visited,path):
     path.append(start)
@@ -84,6 +88,7 @@ visited=defaultdict(bool)
 path=[]
 traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
+```
 <hr>
 <h3>Input</h3>
 <hr>
@@ -100,11 +105,11 @@ F H
 
 <hr>
 <h3>Output</h3>
-<hr>
+
 ![image](https://github.com/Rakshithadevi/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94165326/d342bed6-11ae-4668-8a09-f5a87ce55a70)
 
 
-<hr>
+
 <h3>Result:</h3>
 <hr>
 <p>Thus,a Graph was constructed and implementation of Depth First Search for the same graph was done successfully.</p>
