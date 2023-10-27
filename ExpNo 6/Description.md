@@ -220,3 +220,4 @@ if __name__ == "__main__":
 
 ## Result:
 
+Thus,Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.
