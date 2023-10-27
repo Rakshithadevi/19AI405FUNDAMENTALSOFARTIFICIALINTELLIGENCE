@@ -53,12 +53,7 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
 
-<hr>
-```
-<h3>Name: Rakshitha Devi J</h3>
-<h3>Register Number:212221230082</h3>
-```
-<hr>
+
 
 
 
@@ -66,6 +61,10 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 <hr>
 
 ## code
+```
+Name: Rakshitha Devi J
+Register Number:212221230082
+```
 ```
 from collections import defaultdict
 def dfs(graph,start,visited,path):
